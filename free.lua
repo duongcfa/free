@@ -56,4 +56,4 @@ elseif game.PlaceId == 7449423635 then -- sea3
 end
 _HideUI = true
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AltsegoD/scripts/egoD/TableHubCracked.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/duongcfa/free/main/ui.lua"))()
